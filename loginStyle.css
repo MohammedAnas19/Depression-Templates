@@ -1,0 +1,140 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+header{
+    display: grid;
+    grid-template-columns: 25% auto 25%;
+    margin: 40px 0;
+}
+.logo-container{
+    font-size: x-small;
+    color: #fd6742;
+    margin:0 auto;
+}
+.logo-container a:visited{
+    font-size: x-small;
+    color: #fd6742;
+    margin:0 auto;
+}
+.nav-link-container{
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+}
+.nav-items{
+    font-size: 16px;
+    font-weight: bold;
+    color: #828888;
+}
+.center-link{
+    padding : 0 70px;
+}
+.login-container{
+    margin:0 50%;
+}
+
+
+
+.login{
+}
+.login-btn{
+    background-color:#f6f7f7;
+    font-size: 16px;
+    font-weight: bold;
+    padding:12px 35px;
+    color: #0cb969;
+}
+
+
+main{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+
+.form-container{
+	width:20%;
+	margin-top: 20vh;
+    background-color:#f6f7f7;
+}
+.form-container h1{
+	text-align: center;
+	margin: 10px 0;
+    font-size: 20px;
+    color: #fd6742;
+}
+
+.form-container button{
+	width:80%;
+	background-color:#fd6742;
+    font-size: 16px;
+	height: 35px;
+    color:#f6f7f7;
+	margin: 10px 0;
+	border: none;
+	margin-left: 10%;
+}
+.form-container form{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.form-group{
+	margin: 10px 0;
+}
+.form-group input{
+	width: 80%;
+	height:30px;
+	margin-left: 10%;
+	margin-bottom: 10px;
+
+}
+.form-group label{
+	margin-left: 10%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

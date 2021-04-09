@@ -1,0 +1,119 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+header{
+    display: grid;
+    grid-template-columns: 25% auto 25%;
+    margin: 40px 0;
+}
+.logo-container{
+    font-size: x-small;
+    color: #fd6742;
+    margin:0 auto;
+}
+.logo-container a:visited{
+    font-size: x-small;
+    color: #fd6742;
+    margin:0 auto;
+}
+.nav-link-container{
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+}
+.nav-items{
+    font-size: 16px;
+    font-weight: bold;
+    color: #828888;
+}
+.center-link{
+    padding : 0 70px
+}
+.login-container{
+    margin:0 50%;
+}
+.login{
+}
+.login-btn{
+    background-color:#f6f7f7;
+    font-size: 16px;
+    font-weight: bold;
+    padding:12px 35px;
+    color: #0cb969;
+}
+main{
+    display: flex;
+}
+main div{
+    min-width: 500px;
+    margin: 15% auto;
+}
+main div h1{
+    font-size: 45px;
+}
+main div h1 i{
+    color: #fd6742;
+}
+main div p{
+    font-size: 22px;
+    padding-left: 15px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    color: #676d6d;
+}
+main div a{
+    background-color:#0cb969;
+    font-size: 16px;
+    font-weight: bold;
+    padding:12px 35px;
+    color: white;
+    margin-left: 33%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
